@@ -1,4 +1,4 @@
-package org.ziyue;
+package org.ziyue.reader;
 
 /**
  * 字符串读取
@@ -8,5 +8,7 @@ package org.ziyue;
  * Time: 上午12:33
  * To change this template use File | Settings | File Templates.
  */
-public class StringReader {
+public interface  StringReader {
+
+
 }
