@@ -12,6 +12,7 @@ public class HelloWord {
 
     public static void main(String args[]) {
         System.out.println("Fuck China.P.R!!");
+        System.out.println("子曰：“你妹的”");
     }
 
 }
